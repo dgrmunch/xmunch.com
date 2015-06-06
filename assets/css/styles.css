@@ -1,19 +1,35 @@
 
+.COINWIDGETCOM_CONTAINER > a {
+    padding: 10px 10px 25px 10px !important;
+    font-size: 15px !important;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+    background: #47A5A5 !important;
+    color: white !important;
+    border: 1px dotted #CCC;
+    text-decoration: none !important;
+}
+
 .COINWIDGETCOM_CONTAINER {
-    line-height: 12px !important;
-    margin-right: 5px !important;
+    height: 18px;
+    display: inline-block;
+    font-family: arial;
+    line-height: 12px;
+    margin-right: 5px;
+    background-color: rgb(71, 165, 165) !important;
+    color: white;
+    color: white !important;
     margin-top: 20px !important;
 }
 
-.COINWIDGETCOM_CONTAINER > a {
-    padding: 5px 4px 20px 4px !important;
+.COINWIDGETCOM_CONTAINER > a > span {
+    margin: 0px 3px;
+    color: white !important;
+    text-shadow: none !important;
+    font-weight: bold;
+    font-size: 13px !important;
 }
 
-.COINWIDGETCOM_CONTAINER > span, .COINWIDGETCOM_CONTAINER > a {
-    padding: 1px 10px 10px !important;
-    color: white !important;
-    background-color: #47A5A5 !important;
-}
 
 a.btn-cta-primary, .btn-cta-primary {
     background: none repeat scroll 0% 0% #47a5a5 !important;
