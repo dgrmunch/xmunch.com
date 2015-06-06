@@ -1,3 +1,20 @@
+
+.COINWIDGETCOM_CONTAINER {
+    line-height: 12px !important;
+    margin-right: 5px !important;
+    margin-top: 20px !important;
+}
+
+.COINWIDGETCOM_CONTAINER > a {
+    padding: 5px 4px 20px 4px !important;
+}
+
+.COINWIDGETCOM_CONTAINER > span, .COINWIDGETCOM_CONTAINER > a {
+    padding: 1px 10px 10px !important;
+    color: white !important;
+    background-color: #47A5A5 !important;
+}
+
 a.btn-cta-primary, .btn-cta-primary {
     background: none repeat scroll 0% 0% #47a5a5 !important;
     border: 1px solid #47a5a5 !important;
