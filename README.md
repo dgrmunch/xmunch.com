@@ -1,2 +1,2 @@
-# xmunch.net
-xmunch.net website
+# xmunch.com
+xmunch.com website
